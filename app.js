@@ -17,7 +17,7 @@ const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 
 app.use(session({
-    secret: 'chow123',
+    secret: 'rootme',
     resave: true,
     saveUninitialized: true
 }));
