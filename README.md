@@ -2,7 +2,7 @@
 
 This project is a simple crud. It'a **vulnerable application**.
 
-The main propose of this repo is to track my improvements on web devlopment and web hacking.
+The main propose of this repo is to learn node.js and build a **vulnerable web application for hacking**.
 
 ## Installation
 
